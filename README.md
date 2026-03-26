@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍽️ Food Market Intelligence & Decision Engine
+#  Food Market Intelligence & Decision Engine
 
 ### AI-powered full-stack system that transforms food market data into actionable business decisions
 
