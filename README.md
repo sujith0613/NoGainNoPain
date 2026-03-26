@@ -1,4 +1,35 @@
-# Food Market Intelligence & Decision Engine
+<div align="center">
+
+# 🍽️ Food Market Intelligence & Decision Engine
+
+### AI-powered full-stack system that transforms food market data into actionable business decisions
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7.0+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Claude](https://img.shields.io/badge/AI_Powered-Claude_API-D97706?style=for-the-badge&logoColor=white)
+
+![NLP](https://img.shields.io/badge/NLP-VADER_Sentiment-8B5CF6?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data-1200%2B_Records-0EA5E9?style=for-the-badge)
+![Cities](https://img.shields.io/badge/Cities-7_Indian_Cities-F59E0B?style=for-the-badge)
+![Cuisines](https://img.shields.io/badge/Cuisines-15_Types-10B981?style=for-the-badge)
+![APIs](https://img.shields.io/badge/Endpoints-14_APIs-EF4444?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-6B7280?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Hackathon_Build-22C55E?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Food_Intelligence-F97316?style=for-the-badge)
+![Engine](https://img.shields.io/badge/Decision_Engine-Deterministic-7C3AED?style=for-the-badge)
+
+</div>
+
+---
+```
+
+---
 
 An AI-powered full-stack system that transforms food market data into actionable business decisions.
 
