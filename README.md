@@ -27,13 +27,6 @@
 </div>
 
 ---
-```
-
----
-
-An AI-powered full-stack system that transforms food market data into actionable business decisions.
-
----
 
 ## Quick Start
 
